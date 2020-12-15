@@ -1,0 +1,46 @@
+326f446 2020-12-15 12:48:55 Initialize project using Create React App
+04fa749 2020-12-15 15:25:46 Framework
+af2b63c 2020-12-15 15:35:28 Add three
+a34d4ba 2020-12-15 15:47:05 add four
+0033bd9 2020-12-15 15:50:13 update prettier
+213cfcb 2020-12-15 17:11:28 add assets
+e877afa 2020-12-15 17:40:23 progress
+ea95e4f 2020-12-15 17:41:58 Delete .eslintcache
+1382da5 2020-12-15 19:05:06 Almost done
+d860014 2020-12-15 19:23:44 Metadata
+07c172b 2020-12-15 19:44:08 Address warnings
+9c2d461 2020-12-15 19:49:07 Fix link and style
+1293b99 2020-12-15 19:59:03 Fix shadow
+39d53b8 2020-12-15 20:16:00 Cleanup
+bd25025 2020-12-16 09:04:06 increase size
+3e53635 2020-12-16 09:15:20 fix spacing
+1bfd23f 2020-12-16 11:07:04 Update prettier logo
+3bb5df8 2020-12-16 16:09:37 Change image
+f4bbc0d 2020-12-16 18:38:29 Add round and small fixes
+63d3c67 2020-12-17 17:21:20 Add day 18
+f3655cb 2020-12-17 17:30:34 Change pic
+c75a7f9 2020-12-18 18:49:21 Add Nineteen
+85762f7 2020-12-18 18:50:11 Typo
+317822b 2020-12-19 12:18:55 Update links
+0c9a8b1 2020-12-19 16:34:56 Update preview pic
+710525c 2020-12-19 16:36:57 Update README.md
+77d16bd 2020-12-19 16:40:39 Add twenty
+4edbdc8 2020-12-19 17:12:06 Update pics
+61c2824 2020-12-20 18:20:10 Fix padding and add 21
+f21164b 2020-12-20 20:15:20 Link post in header
+5f1e13c 2020-12-21 10:36:48 Fix link shadow
+6682067 2020-12-21 19:07:43 Add 22
+0168be3 2020-12-21 21:25:14 Add confetti
+df3e936 2020-12-21 21:29:37 Make last day smaller
+e5bb17f 2020-12-22 19:59:09 Add redux
+a9a79d3 2020-12-22 20:00:17 Update title
+4607999 2020-12-23 18:46:12 Add 24
+66d6c2e 2020-12-23 18:59:00 Link last day
+0ada6a4 2020-12-24 12:09:23 Add about day
+d041578 2020-12-24 12:26:32 Change last day title
+6e1e1e8 2020-12-24 12:33:01 Remove border for about
+4aa7e08 2020-12-24 12:33:05 Remove border for about
+6d50843 2020-12-24 18:18:53 Update README.md
+07e79ec 2020-12-24 22:23:35 Update README.md
+427cc75 2020-12-25 10:10:51 Fix meta tags
+f5c9dd8 2020-12-25 10:10:55 Merge branch 'master' of https://github.com/karenying/blogmas
